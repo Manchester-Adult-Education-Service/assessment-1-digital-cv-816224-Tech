@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+main {
+    background-color: darkgray;
+    padding: 16px;
+    margin: 16px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+main {
+    border:2px solid black;
+}
+
+header {
+    background-color: black
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid black;
+}
+
+img {
+    width: 200px;
+    border: 2px solid grey;
+}
+
