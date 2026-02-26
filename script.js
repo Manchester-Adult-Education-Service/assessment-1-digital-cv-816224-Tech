@@ -10,3 +10,8 @@ if (hour < 12) {
 }
 
 console.log("The current hour is: " + hour);
+
+document.getElementById('copyright').textContent = newDate().getFullYear();
+
+const personalStatement = document.querySelector('.highlight')
+personalStatement.style.backgroundColor = '#2e2a2a';
