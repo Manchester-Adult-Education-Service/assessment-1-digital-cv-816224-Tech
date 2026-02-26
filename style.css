@@ -1,19 +1,19 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgray;
-    color: black;
+    background-color: #d3d3d3;
+    color: #000000;
 }
 
 h1 {
-    color: white;
+    color: #ffffff;
 }
 
 h2 {
-    color: whitesmoke;
+    color: #f5f5f5;
 }
 
 main {
-    background-color: darkgray;
+    background-color: #a9a9a9;
     padding: 16px;
     margin: 16px;
 }
@@ -29,19 +29,19 @@ ul, ol {
 }
 
 main {
-    border:2px solid black;
+    border:2px solid #000000;
 }
 
 header {
-    background-color: black;
+    background-color: #000000;
     padding: 16px;
     margin: 16px;
-    border: 2px solid black;
+    border: 2px solid #000000;
 }
 
 img {
     width: 200px;
-    border: 2px solid grey;
+    border: 2px solid #808080;
 }
 
 .contact-bar {
@@ -72,5 +72,5 @@ img {
 }
 
 ol li:first-child {
-    color:aqua;
+    color:#00ffff;
 }
